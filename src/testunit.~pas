@@ -1,0 +1,14 @@
+unit testunit;
+
+interface
+
+uses simplegraph;
+
+type
+  TTestClass = class(TGraphLink)
+
+  end;
+  
+implementation
+
+end.
