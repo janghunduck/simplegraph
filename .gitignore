@@ -1,0 +1,12 @@
+#ignore exe files
+*.exe
+*.dll
+*.~dpr
+test/
+etc/
+ico/
+src/*.dcu
+src/*.rtf
+src/*.~pas
+src/*.~ddp
+src/*.~dfm
