@@ -2,6 +2,7 @@
 *.exe
 *.dll
 *.~dpr
+#*.dpr
 test/
 etc/
 ico/
@@ -10,3 +11,4 @@ src/*.rtf
 src/*.~pas
 src/*.~ddp
 src/*.~dfm
+#src/*.dfm
