@@ -1,5 +1,5 @@
 # simplegraph
 TSimpleGraph Graphi library modify
 
-catmull-rom
+catmull-rom,
 spline
